@@ -1,0 +1,46 @@
+/*-- Navbar --*/
+.navbar {
+    background-color: #BDB2FF;
+}
+
+/*-- Utilities --*/
+.btn-primary {
+    background-color: #FFADAD;
+    border-color: #FFADAD;
+}
+
+.btn-group-vertical {
+    padding-top: 2.7rem;
+    padding-bottom: 4rem;
+}
+
+.btn-secondary {
+    background-color: #A0C4FF;
+    border-color: #FFADAD;
+    color: #FFFFFF;
+}
+
+/*-- .main-section --*/
+body {
+    background-color: #FFC6FF;
+    font-family:verdana,helvetica,arial,sans-serif;
+}
+
+.img-bear {
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+}
+
+/*-- Footer --*/
+.footer {
+    background: #BDB2FF;
+    /*display: flex;
+    flex-direction: column;*/
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
