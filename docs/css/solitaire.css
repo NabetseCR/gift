@@ -14,14 +14,15 @@
      height: 100%;
   }
   body {
+     font-family:verdana,helvetica,arial,sans-serif;
      position: relative;
      color: #f3f5f7;
-     background: #0e8b44 url('https://bfa.github.io/solitaire-js/img/green_felt.jpg');
+     background: #FFC6FF; /*url('https://bfa.github.io/solitaire-js/img/green_felt.jpg');*/
      background-size: cover;
      background-position: center;
   }
   .navbar {
-     background: rgba(8,8,8,.75);
+     background: #BDB2FF;
   }
   .navbar a {
      color: #fff;
